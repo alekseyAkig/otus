@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.16">
+	<Item id="47e1a70d-0564-4d7a-a6ec-5da56f5374c2">
+		<Name>Презентации</Name>
+		<Code>000000001</Code>
+		<Description>Презентации</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="6fcd8de7-4520-478e-be58-f40ca4b63f56">
+		<Name>ПрочиеДанные</Name>
+		<Code>000000002</Code>
+		<Description>Прочие данные</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+</PredefinedData>
